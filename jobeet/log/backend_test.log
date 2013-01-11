@@ -1,0 +1,52 @@
+Nov 19 06:51:30 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+Nov 19 06:51:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /category/index with parameters array (  'module' => 'category',  'action' => 'index',)
+Nov 19 06:51:31 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Nov 19 06:51:31 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Nov 19 06:51:31 symfony [info] {sfBasicSecurityFilter} Action "category/index" requires authentication, forwarding to "default/login"
+Nov 19 06:51:31 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Nov 19 06:51:31 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Nov 19 06:51:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 19 06:51:31 symfony [info] {defaultActions} Call "defaultActions->executeLogin()"
+Nov 19 06:51:31 symfony [info] {sfPHPView} Render "G:\programfiles\symfony-1.4.18\lib/controller/default/templates/loginSuccess.php"
+Nov 19 06:51:31 symfony [info] {sfPHPView} Decorate content with "G:\programfiles\symfony-1.4.18\lib\controller\default\templates/defaultLayout.php"
+Nov 19 06:51:31 symfony [info] {sfPHPView} Render "G:\programfiles\symfony-1.4.18\lib\controller\default\templates/defaultLayout.php"
+Nov 19 06:51:31 symfony [info] {sfWebResponse} Send content (1557 o)
+Nov 19 06:51:31 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+Nov 19 06:51:32 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /job/index with parameters array (  'module' => 'job',  'action' => 'index',)
+Nov 19 06:51:32 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Nov 19 06:51:32 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Nov 19 06:51:32 symfony [info] {sfBasicSecurityFilter} Action "job/index" requires authentication, forwarding to "default/login"
+Nov 19 06:51:32 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Nov 19 06:51:32 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Nov 19 06:51:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 19 06:51:32 symfony [info] {defaultActions} Call "defaultActions->executeLogin()"
+Nov 19 06:51:32 symfony [info] {sfPHPView} Render "G:\programfiles\symfony-1.4.18\lib/controller/default/templates/loginSuccess.php"
+Nov 19 06:51:32 symfony [info] {sfPHPView} Decorate content with "G:\programfiles\symfony-1.4.18\lib\controller\default\templates/defaultLayout.php"
+Nov 19 06:51:32 symfony [info] {sfPHPView} Render "G:\programfiles\symfony-1.4.18\lib\controller\default\templates/defaultLayout.php"
+Nov 19 06:51:32 symfony [info] {sfWebResponse} Send content (1557 o)
+Nov 19 06:54:32 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+Nov 19 06:54:32 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /category/index with parameters array (  'module' => 'category',  'action' => 'index',)
+Nov 19 06:54:32 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Nov 19 06:54:32 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Nov 19 06:54:32 symfony [info] {sfBasicSecurityFilter} Action "category/index" requires authentication, forwarding to "default/login"
+Nov 19 06:54:32 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Nov 19 06:54:32 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Nov 19 06:54:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 19 06:54:32 symfony [info] {defaultActions} Call "defaultActions->executeLogin()"
+Nov 19 06:54:32 symfony [info] {sfPHPView} Render "G:\programfiles\symfony-1.4.18\lib/controller/default/templates/loginSuccess.php"
+Nov 19 06:54:32 symfony [info] {sfPHPView} Decorate content with "G:\programfiles\symfony-1.4.18\lib\controller\default\templates/defaultLayout.php"
+Nov 19 06:54:32 symfony [info] {sfPHPView} Render "G:\programfiles\symfony-1.4.18\lib\controller\default\templates/defaultLayout.php"
+Nov 19 06:54:32 symfony [info] {sfWebResponse} Send content (1557 o)
+Nov 19 06:54:33 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'job',  'action' => 'index',)
+Nov 19 06:54:33 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /job/index with parameters array (  'module' => 'job',  'action' => 'index',)
+Nov 19 06:54:33 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Nov 19 06:54:33 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Nov 19 06:54:33 symfony [info] {sfBasicSecurityFilter} Action "job/index" requires authentication, forwarding to "default/login"
+Nov 19 06:54:33 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Nov 19 06:54:33 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Nov 19 06:54:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 19 06:54:33 symfony [info] {defaultActions} Call "defaultActions->executeLogin()"
+Nov 19 06:54:33 symfony [info] {sfPHPView} Render "G:\programfiles\symfony-1.4.18\lib/controller/default/templates/loginSuccess.php"
+Nov 19 06:54:33 symfony [info] {sfPHPView} Decorate content with "G:\programfiles\symfony-1.4.18\lib\controller\default\templates/defaultLayout.php"
+Nov 19 06:54:33 symfony [info] {sfPHPView} Render "G:\programfiles\symfony-1.4.18\lib\controller\default\templates/defaultLayout.php"
+Nov 19 06:54:33 symfony [info] {sfWebResponse} Send content (1557 o)
